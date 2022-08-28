@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently Studying CSE in City University<br>🌱 I’m currently learning Programming And Problem Solving<br>💬 Ask me about Football<br>⚡ Fun fact: I'm Excited Introvert
 
+[![](https://visitcount.itsvg.in/api?id=mdsiaofficial&icon=7&color=7)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/http://facebook.com/mdsiaofficial1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdsiaofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdsiaofficial) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@mdsiaofficial) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCJsPNTOqi0NeHa_r4WKeGFg) 
@@ -19,4 +20,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mdsiaofficial&icon=7&color=7)](https://visitcount.itsvg.in)
