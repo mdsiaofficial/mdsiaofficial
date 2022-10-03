@@ -1,21 +1,29 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mdsiaofficial/count.svg?"  />
+</div>
 
-<!--
-**mdsiaofficial/mdsiaofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=mdsiaofficial" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=mdsiaofficial" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
 
-![](https://raw.githubusercontent.com/mdtalhachy/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/0-profile-details.svg)
-![](https://raw.githubusercontent.com/mdtalhachy/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/3-stats.svg)
-![](https://raw.githubusercontent.com/mdtalhachy/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/mdtalhachy/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/mdtalhachy/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/4-productive-time.svg)
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/mdsiaofficial/mdsiaofficial/blob/output/snake.svg" alt="Snake animation" />
+
+###
