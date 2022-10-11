@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭Studying CSE in City University<br>🌱 learning Programming And Problem Solving<br>💬 Ask me about Football<br>⚡ Fun fact: Excited Introvert
+<!--- # 💫 About Me:
+🔭Studying CSE in City University<br>🌱 learning Programming And Problem Solving<br>💬 Ask me about Football<br>⚡ Fun fact: Excited Introvert --->
 ---
 [![](https://visitcount.itsvg.in/api?id=mdsiaofficial&icon=7&color=7)](https://visitcount.itsvg.in)
 ---
