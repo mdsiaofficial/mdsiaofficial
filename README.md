@@ -2,6 +2,7 @@
 🔭Studying CSE in City University<br>🌱 learning Programming And Problem Solving<br>💬 Ask me about Football<br>⚡ Fun fact: Excited Introvert 
 ---
 --->
+<p style="text-align: center;">
 [![](https://visitcount.itsvg.in/api?id=mdsiaofficial&icon=7&color=7)](https://visitcount.itsvg.in)
 ---
 ## 🌐 Socials:
@@ -11,4 +12,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=mdsiaofficial&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdsiaofficial&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsiaofficial&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
- 
+</p>
