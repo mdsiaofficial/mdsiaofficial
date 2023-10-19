@@ -1,29 +1,12 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mdsiaofficial/count.svg?"  />
-</div>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdsiaofficial1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdsiaofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdsiaofficial) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@mdsiaofficial) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCJsPNTOqi0NeHa_r4WKeGFg)
 
-###
+## 🌐 Stack Overfloww:
+<a href="https://stackoverflow.com/users/6546572/md-shoriful-islam"><img src="https://stackoverflow.com/users/flair/6546572.png" width="208" height="58" alt="profile for Md Shoriful Islam at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Md Shoriful Islam at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+## 🌐 CodeWars:
+<a href="https://www.codewars.com/users/mdsiaofficial/badges/large"><img src="https://www.codewars.com/users/mdsiaofficial/badges/large" width="208" height="58" alt="profile for Md Shoriful Islam at CodeWars, Q&amp;A for professional and enthusiast programmers" title="profile for Md Shoriful Islam at CodeWars, Q&amp;A for professional and enthusiast programmers"></a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=mdsiaofficial" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=mdsiaofficial" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/mdsiaofficial/mdsiaofficial/blob/output/snake.svg" alt="Snake animation" />
-
-###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mdsiaofficial&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mdsiaofficial&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsiaofficial&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
