@@ -1,12 +1,21 @@
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdsiaofficial1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdsiaofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdsiaofficial) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@mdsiaofficial) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCJsPNTOqi0NeHa_r4WKeGFg)
-
-## 🌐 Stack Overfloww:
-<a href="https://stackoverflow.com/users/6546572/md-shoriful-islam"><img src="https://stackoverflow.com/users/flair/6546572.png" width="208" height="58" alt="profile for Md Shoriful Islam at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Md Shoriful Islam at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-## 🌐 CodeWars:
-<a href="https://www.codewars.com/users/mdsiaofficial/badges/large"><img src="https://www.codewars.com/users/mdsiaofficial/badges/large" width="208" height="58" alt="profile for Md Shoriful Islam at CodeWars, Q&amp;A for professional and enthusiast programmers" title="profile for Md Shoriful Islam at CodeWars, Q&amp;A for professional and enthusiast programmers"></a>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mdsiaofficial&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mdsiaofficial&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsiaofficial&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+<br><br>
+<img align="center" height="125px" width="auto" src="https://github.com/bedirt/bedirt/blob/main/img/logo.png" alt="Logo"><br><br>
+<br>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBedirT%2FBedirT&count_bg=%234682B4&title_bg=%232F4F4F&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false"/></a><br><br>
+</div>
+<p align="center">
+Hello, Bedir here. I am a Machine Learning Engineer. <br>
+Currently I am working on NLP, spending a lot of time on LLMs and all. <br>
+On the side I work on RL, and CFR based approaches for Poker.<br>
+I do 3D modelling and sculpting on my free time.
+<br><br>
+<div align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=bedirt&show_icons=true&count_private=true&text_color=4682B4&icon_color=BC8F8F&bg_color=F0F8FF&title_color=2F4F4F&hide_border=true,contribs"><br><br>
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=bedirt&hide_border=true&date_format=j%20M%5B%20Y%5D&background=FFFFFF&ring=4682B4&fire=2F4F4F&sideNums=4682B4&sideLabels=4682B4&stroke=2F4F4F&currStreakNum=142222D9&currStreakLabel=2F4F4F&dates=2F4F4F">
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/btapkan"> <img align="center" src="https://github.com/bedirt/bedirt/blob/main/img/coffee_logo.png" height="auto" width="210" alt="buy_me_coffee_bedirt" /></a>
+  <br>
+  <br>
+</div>
