@@ -1,4 +1,14 @@
 <div align="center">
+    <div align="center">
+<br><br>
+<img align="center" height="80px" width="auto" src="https://github.com/mdsiaofficial/mdsiaofficial/blob/main/img/logo.png" alt="Logo"><br><br>
+<br>
+<a href="https://hits.seeyoufarm.com"><img height="30px" width="auto" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBedirT%2FBedirT&count_bg=%234682B4&title_bg=%232F4F4F&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false"/></a><br><br>
+</div>
+<p align="center">
+Hello, Md Shoriful Islam Ashiq here. I'm a passionate problem solver. I'm currently working to become a MERN Stack developer. I also have a keen interest in embedded systems and operating systems.
+<br><br>
+</p>
 <h1>🌐 Socials:</h1>
   
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdsiaofficial) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdsiaofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdsiaofficial) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@mdsiaofficial) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCJsPNTOqi0NeHa_r4WKeGFg)
