@@ -10,9 +10,10 @@
 -->
 
 </div>
-<p align="center">
+
+<h3 align="center">
 Hello, Md Shoriful Islam Ashiq here. I'm a passionate problem solver. I'm currently working to become a MERN Stack developer. I also have a keen interest in embedded systems and operating systems.
-</p>
+</h3>
 <h3>🌐 Socials:</h3>
   
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdsiaofficial) 
@@ -23,8 +24,8 @@ Hello, Md Shoriful Islam Ashiq here. I'm a passionate problem solver. I'm curren
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mdsiaofficial/) 
 <h3>📊 GitHub Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=mdsiaofficial&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mdsiaofficial&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mdsiaofficial&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mdsiaofficial&theme=blueberry&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsiaofficial&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
