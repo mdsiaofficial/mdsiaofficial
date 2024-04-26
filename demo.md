@@ -35,7 +35,7 @@ Hello there! 👋 I'm Md Shoriful Islam Ashiq, I'm a passionate problem solver. 
 <div align="center" >
 <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdsiaofficial&theme=github_dark" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdsiaofficial&theme=github_dark&utcOffset=8" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdsiaofficial&theme=github_dark&utcOffset=6" width="32.5%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdsiaofficial&theme=github_dark" width="32.5%">
 </div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdsiaofficial&theme=github_dark" width="98%">
