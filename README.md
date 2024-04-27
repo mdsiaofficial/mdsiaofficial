@@ -11,9 +11,9 @@
 
 </div>
 
-<h3 align="center">
+<h1 align="center">
 Hello, Md Shoriful Islam Ashiq here. I'm a passionate problem solver. I'm currently working to become a MERN Stack developer. I also have a keen interest in embedded systems and operating systems.
-</h3>
+</h1>
 <!-- About Me
 As a passionate Competitive Programmer with a strong foundation in C++ and JavaScript, I thrive on solving complex problems and optimizing algorithms. My analytical abilities are honed through rigorous practice in data structures and algorithm design, enabling me to develop efficient and scalable solutions.
 My journey in competitive programming has taught me not only the intricacies of algorithmic challenges but also the importance of precision and perseverance. Whether it's tackling algorithm puzzles or implementing robust data structures, I approach each task with a strategic mindset and a commitment to excellence.
