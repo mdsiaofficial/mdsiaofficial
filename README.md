@@ -14,10 +14,11 @@ Hello there! 👋 I'm Md Shoriful Islam Ashiq, I'm a passionate problem solver. 
 <!-- - Front-end Development: Transforming designs into responsive and user-friendly interfaces using HTML, CSS, Tailwindcss, React.Js and JavaScript.
 - Back-end Development: Building robust server-side applications with NodeJs, Express.Js and Mongodb.
 - Full-Stack Magic: Connecting the dots between front-end and back-end to create seamless web applications. -->
-1. Problem Solving, Problem Analysis, 
-2. Problem Breakdown
-3. Project Management
-4. Learning to be better on MERN STACK
+Problem Solving, Problem Analysis, Problem Breakdown
+
+Project Management
+
+Learning to be better on MERN STACK
 
 ## 🔥 Technologies That I Know 
 <p align="center">
