@@ -38,7 +38,7 @@ Let's connect and explore how we can drive innovation together!-->
 
 
 <!-- theme 1 -->
-<!-- 
+
 ## 📊 Github Profile States 
 <div align="center" >
 <div>
@@ -47,7 +47,7 @@ Let's connect and explore how we can drive innovation together!-->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdsiaofficial&theme=github_dark" width="32.5%">
 </div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdsiaofficial&theme=github_dark" width="98%">
-</div> -->
+</div>
 
 <!-- theme 2 -->
 
