@@ -39,7 +39,7 @@ Let's connect and explore how we can drive innovation together!-->
 
 <!-- theme 1 -->
 
-## 📊 Github Profile States 
+<!-- ## 📊 Github Profile States 
 <div align="center" >
 <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdsiaofficial&theme=github_dark" width="32.5%">
@@ -47,16 +47,22 @@ Let's connect and explore how we can drive innovation together!-->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdsiaofficial&theme=github_dark" width="32.5%">
 </div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdsiaofficial&theme=github_dark" width="98%">
-</div>
+</div> -->
+
 
 <!-- theme 2 -->
-
+<!-- ## ⏳ Github Activity Streaks  -->
 ## 📊 Github Profile States 
+<div align="center"> 
+<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdsiaofficial&theme=github_dark" alt="GitHub Streak" /></a>
+</div>
+
+
 <div align="center" >
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=mdsiaofficial&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" width="32.5%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsiaofficial&theme=blueberry&hide_border=false" width="32.5%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsiaofficial&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api?username=mdsiaofficial&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" width="47%">
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsiaofficial&theme=blueberry&hide_border=false" width="32.5%"> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsiaofficial&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="37%">
 </div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdsiaofficial&theme=github_dark" width="98%">
 </div>
