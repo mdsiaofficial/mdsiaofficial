@@ -25,7 +25,7 @@ Let's connect and explore how we can drive innovation together!-->
   
   **Frontend**: ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwind-css)   <!-- ![Ant Design](https://img.shields.io/badge/-Ant_Design-333?style=flat&logo=ant-design) -->
   
-  **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js) ![NestJS](https://img.shields.io/badge/-NestJS-333?style=flat&logo=nestjs)   <!-- ![Prisma](https://img.shields.io/badge/-Prisma-333?style=flat&logo=prisma) -->
+  **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js) [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#) ![NestJS](https://img.shields.io/badge/-NestJS-333?style=flat&logo=nestjs)   <!-- ![Prisma](https://img.shields.io/badge/-Prisma-333?style=flat&logo=prisma) -->
   
   **Databases**:  <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql) --> ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
     <!--
