@@ -21,13 +21,13 @@ I'm always eager to collaborate on projects that challenge me to push the bounda
 Let's connect and explore how we can drive innovation together!-->
 
 ## 🛠️ Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript) [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)  <!-- ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql) --> ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript) [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)  <!-- ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql) --> <!-- ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3) -->
   
   **Frontend**: ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwind-css)   <!-- ![Ant Design](https://img.shields.io/badge/-Ant_Design-333?style=flat&logo=ant-design) -->
   
-  **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js) [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#) ![NestJS](https://img.shields.io/badge/-NestJS-333?style=flat&logo=nestjs)   <!-- ![Prisma](https://img.shields.io/badge/-Prisma-333?style=flat&logo=prisma) -->
+  **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js) [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#) <!-- ![NestJS](https://img.shields.io/badge/-NestJS-333?style=flat&logo=nestjs) -->  <!-- ![Prisma](https://img.shields.io/badge/-Prisma-333?style=flat&logo=prisma) --> 
   
-  **Databases**:  <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql) --> ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+  **Databases**:  <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql) --> ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb) ![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
     <!--
   **DevOps**: ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker) ![Nginx](https://img.shields.io/badge/-Nginx-333?style=flat&logo=nginx) ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
   -->
@@ -36,14 +36,16 @@ Let's connect and explore how we can drive innovation together!-->
   <!--
   **Testing**: ![Jest](https://img.shields.io/badge/-Jest-333?style=flat&logo=jest) ![Cypress](https://img.shields.io/badge/-Cypress-333?style=flat&logo=cypress)
 -->
+<!--
 ## 📫 Let's Connect
 
 [<img src="https://i.ibb.co/z7X5Xjq/linkedin.png" alt='linkedin' height='60' width ='60'>](https://www.linkedin.com/in/mdsiaofficial/)
 [<img src="https://i.ibb.co/KLVr40S/Gmail-Icon.png" alt='gmail' height='60' width ='55'>](mdsiaofficial@gmail.com ) 
 [<img width="60" height="60" src="https://img.icons8.com/color/48/twitter-squared.png" alt="twitter-squared"/>](https://www.twitter.com/mdsiaofficial) 
-
-## <h3>🌐 Socials:</h3>
-  
+-->
+<!--
+## <h3>🌐 Socials:</h3> -->
+  ## 📫 Let's Connect
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdsiaofficial) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdsiaofficial) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdsiaofficial) 
