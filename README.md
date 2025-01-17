@@ -79,7 +79,9 @@ Let's connect and explore how we can drive innovation together!-->
 ## 📊 Github Profile States
 
 <div align="center"> 
-<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdsiaofficial&theme=github_dark" alt="GitHub Streak" /></a>
+    
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdsiaofficial&theme=blueberry)](https://git.io/streak-stats)
+
 </div>
 
 <div align="center" >
