@@ -49,12 +49,24 @@ Hello, Md Shoriful Islam Ashiq here. I'm a passionate problem solver. I'm curren
 
 <div align="center" >
 <div>
+    
 <img src="https://github-readme-stats.vercel.app/api?username=mdsiaofficial&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" width="37%">
+    
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsiaofficial&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="29%">
+
 </div>
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdsiaofficial&theme=github_dark" width="98%"> -->
 </div>
 
+## 📈 Contribution Graph
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsiaofficial&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=6366f1&point=6366f1&color=ffffff" alt="mdsiaofficial" />
+
+</div>
+
  
 </div>
+
 
