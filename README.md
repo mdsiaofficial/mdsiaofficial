@@ -29,12 +29,14 @@ Hello, Md Shoriful Islam Ashiq here. I'm a passionate problem solver. I'm curren
 -->
 
   ## 📫 Let's Connect
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdsiaofficial) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdsiaofficial.ashiq) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdsiaofficial) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdsiaofficial) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@mdsiaofficial) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@mdsiaofficial/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mdsiaofficial/)
+[![Quora](https://img.shields.io/badge/Quora-white?logo=quora&logoColor=red)](https://www.quora.com/profile/Md-Shoriful-Islam-Ashiq)
+[![Hashnode](https://img.shields.io/badge/Hashnode-white?logo=hashnode&logoColor=blue)](https://mdsiaofficial.hashnode.dev/)
 
 
 ## 📊 Github Profile States
@@ -68,5 +70,6 @@ Hello, Md Shoriful Islam Ashiq here. I'm a passionate problem solver. I'm curren
 
  
 </div>
+
 
 
