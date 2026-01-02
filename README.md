@@ -12,13 +12,13 @@ Hello, Md Shoriful Islam Ashiq here. I'm a passionate problem solver. I'm curren
 
 
 ## 🛠️ Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript) [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)  <!-- ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql) --> <!-- ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3) -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript) [![C](https://img.shields.io/badge/C-333?logo=c&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-333.svg?logo=c%2B%2B&logoColor=white)](#)  <!-- ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql) --> <!-- ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3) -->
   
   **Frontend**: ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwind-css)   <!-- ![Ant Design](https://img.shields.io/badge/-Ant_Design-333?style=flat&logo=ant-design) -->
   
-  **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js) [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#) <!-- ![NestJS](https://img.shields.io/badge/-NestJS-333?style=flat&logo=nestjs) -->  <!-- ![Prisma](https://img.shields.io/badge/-Prisma-333?style=flat&logo=prisma) --> 
+  **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js) [![Express.js](https://img.shields.io/badge/Express.js-333.svg?logo=express&logoColor=%2361DAFB)](#) <!-- ![NestJS](https://img.shields.io/badge/-NestJS-333?style=flat&logo=nestjs) -->  <!-- ![Prisma](https://img.shields.io/badge/-Prisma-333?style=flat&logo=prisma) --> 
   
-  **Databases**:  <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql) --> ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb) ![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
+  **Databases**:  <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql) --> ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb) ![MySQL](https://shields.io/badge/MySQL-333?logo=mysql)
     <!--
   **DevOps**: ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker) ![Nginx](https://img.shields.io/badge/-Nginx-333?style=flat&logo=nginx) ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
   -->
@@ -36,7 +36,7 @@ Hello, Md Shoriful Islam Ashiq here. I'm a passionate problem solver. I'm curren
 [![Bluesky](https://img.shields.io/badge/Bluesky-%231DA1F2.svg?logo=Bluesky&logoColor=white)](https://bsky.app/profile/mdsiaofficial.bsky.social) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@mdsiaofficial/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mdsiaofficial/)
-[![Hashnode](https://img.shields.io/badge/Hashnode-white?logo=hashnode&logoColor=blue)](https://mdsiaofficial.hashnode.dev/)
+<!-- [![Hashnode](https://img.shields.io/badge/Hashnode-white?logo=hashnode&logoColor=blue)](https://mdsiaofficial.hashnode.dev/) -->
 <!-- [![Quora](https://img.shields.io/badge/Quora-white?logo=quora&logoColor=red)](https://www.quora.com/profile/Md-Shoriful-Islam-Ashiq) -->
 
 
@@ -74,6 +74,7 @@ Hello, Md Shoriful Islam Ashiq here. I'm a passionate problem solver. I'm curren
 
  
 </div>
+
 
 
 
