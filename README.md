@@ -40,37 +40,7 @@ Hello, Md Shoriful Islam Ashiq here. I'm a passionate problem solver. I'm curren
 <!-- [![Quora](https://img.shields.io/badge/Quora-white?logo=quora&logoColor=red)](https://www.quora.com/profile/Md-Shoriful-Islam-Ashiq) -->
 
 
-## 📊 Github Profile States
 
-<div align="center"> 
-    
-[![GitHub Streak](https://streak-stats.demolab.com?user=mdsiaofficial&theme=blueberry)](https://git.io/streak-stats) 
-
-<!--
-<a href="https://gitroll.io/profile/uLneQTYYjO6N4wsrFpfx35Mg1gTD3" target="_blank"><img height="auto" width="300px" src="https://gitroll.io/api/badges/profiles/v1/uLneQTYYjO6N4wsrFpfx35Mg1gTD3" alt="GitRoll Profile Badge"/></a> 
--->
-</div>
-
-<!--
-<div align="center" >
-<div>
-    
-<img src="https://github-readme-stats.vercel.app/api?username=mdsiaofficial&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" width="37%">
-    
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsiaofficial&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="29%">
-
-</div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdsiaofficial&theme=github_dark" width="98%">
-</div>
--->
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsiaofficial&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=6366f1&point=6366f1&color=ffffff" alt="mdsiaofficial" />
-
-</div>
 
  
 </div>
