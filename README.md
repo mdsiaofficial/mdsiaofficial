@@ -18,7 +18,7 @@ Hello, Md Shoriful Islam Ashiq here. I'm a passionate problem solver. I'm curren
   
   **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js) [![Express.js](https://img.shields.io/badge/Express.js-333.svg?logo=express&logoColor=%2361DAFB)](#) <!-- ![NestJS](https://img.shields.io/badge/-NestJS-333?style=flat&logo=nestjs) -->  <!-- ![Prisma](https://img.shields.io/badge/-Prisma-333?style=flat&logo=prisma) --> 
   
-  **Databases**:  <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql) --> ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb) ![MySQL](https://shields.io/badge/MySQL-333?logo=mysql)
+  **Databases**:   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb) ![MySQL](https://shields.io/badge/MySQL-333?logo=mysql)
     <!--
   **DevOps**: ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker) ![Nginx](https://img.shields.io/badge/-Nginx-333?style=flat&logo=nginx) ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
   -->
@@ -44,6 +44,7 @@ Hello, Md Shoriful Islam Ashiq here. I'm a passionate problem solver. I'm curren
 
  
 </div>
+
 
 
 
