@@ -12,21 +12,19 @@ Full Stack Software Engineer | Building SaaS Products | Sharing Product Growth &
 
 
 ## 🛠️ Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript) [![C](https://img.shields.io/badge/C-333?logo=c&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-333.svg?logo=c%2B%2B&logoColor=white)](#)  <!-- ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql) --> <!-- ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3) -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript) [![C](https://img.shields.io/badge/C-333?logo=c&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-333.svg?logo=c%2B%2B&logoColor=white)](#) ![C#](https://img.shields.io/badge/C%23-239120?&logo=c-sharp&logoColor=white)     <!-- ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql) --> <!-- ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3) -->
   
-  **Frontend**: ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwind-css)   <!-- ![Ant Design](https://img.shields.io/badge/-Ant_Design-333?style=flat&logo=ant-design) -->
+  **Frontend**: ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwind-css) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) <!-- ![Ant Design](https://img.shields.io/badge/-Ant_Design-333?style=flat&logo=ant-design) -->
   
-  **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js) [![Express.js](https://img.shields.io/badge/Express.js-333.svg?logo=express&logoColor=%2361DAFB)](#) ![Hono.Js](https://img.shields.io/badge/-Hono.js-20232A?style=flat&logo=hono) ![NestJS](https://img.shields.io/badge/-NestJS-333?style=flat&logo=nestjs)  <!-- ![Prisma](https://img.shields.io/badge/-Prisma-333?style=flat&logo=prisma) --> 
+  **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js) [![Express.js](https://img.shields.io/badge/Express.js-333.svg?logo=express&logoColor=%2361DAFB)](#) ![Hono.Js](https://img.shields.io/badge/-Hono.js-20232A?style=flat&logo=hono) ![NestJS](https://img.shields.io/badge/-NestJS-333?style=flat&logo=nestjs) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white)    <!-- ![Prisma](https://img.shields.io/badge/-Prisma-333?style=flat&logo=prisma) --> 
   
   **Databases**:   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb) ![MySQL](https://shields.io/badge/MySQL-333?logo=mysql)
-    <!--
+    
   **DevOps**: ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker) ![Nginx](https://img.shields.io/badge/-Nginx-333?style=flat&logo=nginx) ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
-  -->
   
   **Version Control**: ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-333?style=flat&logo=gitlab)
-  <!--
+ 
   **Testing**: ![Jest](https://img.shields.io/badge/-Jest-333?style=flat&logo=jest) ![Cypress](https://img.shields.io/badge/-Cypress-333?style=flat&logo=cypress)
--->
 
   ## 📫 Let's Connect
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdsiaofficial.ashiq) -->
